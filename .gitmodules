@@ -7,3 +7,6 @@
 [submodule "mesto-react-backend-frontend"]
 	path = mesto-react-backend-frontend
 	url = https://github.com/TimAbuev/mesto-react-backend-frontend
+[submodule "react-mesto-auth"]
+	path = react-mesto-auth
+	url = https://github.com/TimAbuev/react-mesto-auth
