@@ -1,9 +1,6 @@
 [submodule "mesto-react-frontend"]
 	path = mesto-react-frontend
 	url = https://github.com/TimAbuev/mesto-react-frontend
-[submodule "react-mesto-auth"]
-	path = react-mesto-auth
-	url = https://github.com/TimAbuev/react-mesto-auth
 [submodule "mesto-express"]
 	path = mesto-express
 	url = https://github.com/TimAbuev/mesto-express
